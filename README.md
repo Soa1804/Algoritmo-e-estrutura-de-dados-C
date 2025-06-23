@@ -1,1 +1,0 @@
-# Algoritmo-e-estrutura-de-dados-C
