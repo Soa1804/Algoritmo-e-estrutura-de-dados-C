@@ -164,6 +164,7 @@ void countingSort(int *array, int size) {
     free(count); free(output);
 }
 
+//************** ESSE É O NOSSO **************
 // ----------- PARTES DO RADIX SORT E ELE -----------
 int getMax(int *array, int size) {
     int max = array[0];//Assume que o maior valor tá em array[0], no inicio
